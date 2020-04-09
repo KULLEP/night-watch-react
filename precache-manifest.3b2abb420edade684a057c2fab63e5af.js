@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0f0df64f76513c32597f857024c4056",
+    "revision": "0610673bcb9812cfbf992b8050e73dfd",
     "url": "/night-watch-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/night-watch-react/static/css/2.301d52b6.chunk.css"
   },
   {
-    "revision": "cdd6d7634d7182bb06d3",
+    "revision": "2f1c96053423ab2a7aa0",
     "url": "/night-watch-react/static/css/main.b671077c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/night-watch-react/static/js/2.1d2fb14b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cdd6d7634d7182bb06d3",
-    "url": "/night-watch-react/static/js/main.442ce818.chunk.js"
+    "revision": "2f1c96053423ab2a7aa0",
+    "url": "/night-watch-react/static/js/main.fb1dc8ec.chunk.js"
   },
   {
     "revision": "21bddeecc05165739613",
