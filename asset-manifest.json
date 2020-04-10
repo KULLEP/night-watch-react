@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/night-watch-react/static/css/main.b671077c.chunk.css",
-    "main.js": "/night-watch-react/static/js/main.b6345128.chunk.js",
-    "main.js.map": "/night-watch-react/static/js/main.b6345128.chunk.js.map",
+    "main.js": "/night-watch-react/static/js/main.965a850f.chunk.js",
+    "main.js.map": "/night-watch-react/static/js/main.965a850f.chunk.js.map",
     "runtime-main.js": "/night-watch-react/static/js/runtime-main.c35a0e3c.js",
     "runtime-main.js.map": "/night-watch-react/static/js/runtime-main.c35a0e3c.js.map",
     "static/css/2.301d52b6.chunk.css": "/night-watch-react/static/css/2.301d52b6.chunk.css",
     "static/js/2.1177b453.chunk.js": "/night-watch-react/static/js/2.1177b453.chunk.js",
     "static/js/2.1177b453.chunk.js.map": "/night-watch-react/static/js/2.1177b453.chunk.js.map",
     "index.html": "/night-watch-react/index.html",
-    "precache-manifest.d5139fe5d18f98905d1ce83a36916a04.js": "/night-watch-react/precache-manifest.d5139fe5d18f98905d1ce83a36916a04.js",
+    "precache-manifest.9f519e7a59ebe4ce98644d28afa62323.js": "/night-watch-react/precache-manifest.9f519e7a59ebe4ce98644d28afa62323.js",
     "service-worker.js": "/night-watch-react/service-worker.js",
     "static/css/2.301d52b6.chunk.css.map": "/night-watch-react/static/css/2.301d52b6.chunk.css.map",
     "static/css/main.b671077c.chunk.css.map": "/night-watch-react/static/css/main.b671077c.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.301d52b6.chunk.css",
     "static/js/2.1177b453.chunk.js",
     "static/css/main.b671077c.chunk.css",
-    "static/js/main.b6345128.chunk.js"
+    "static/js/main.965a850f.chunk.js"
   ]
 }
