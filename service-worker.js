@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/night-watch-react/precache-manifest.5c282d539ac6d042a81f3471e8963ffe.js"
+  "/night-watch-react/precache-manifest.d5139fe5d18f98905d1ce83a36916a04.js"
 );
 
 self.addEventListener('message', (event) => {
