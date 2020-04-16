@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/night-watch-react/static/css/main.b671077c.chunk.css",
-    "main.js": "/night-watch-react/static/js/main.1df5d4bd.chunk.js",
-    "main.js.map": "/night-watch-react/static/js/main.1df5d4bd.chunk.js.map",
+    "main.css": "/night-watch-react/static/css/main.861788e3.chunk.css",
+    "main.js": "/night-watch-react/static/js/main.9f042afd.chunk.js",
+    "main.js.map": "/night-watch-react/static/js/main.9f042afd.chunk.js.map",
     "runtime-main.js": "/night-watch-react/static/js/runtime-main.c35a0e3c.js",
     "runtime-main.js.map": "/night-watch-react/static/js/runtime-main.c35a0e3c.js.map",
-    "static/css/2.301d52b6.chunk.css": "/night-watch-react/static/css/2.301d52b6.chunk.css",
-    "static/js/2.1177b453.chunk.js": "/night-watch-react/static/js/2.1177b453.chunk.js",
-    "static/js/2.1177b453.chunk.js.map": "/night-watch-react/static/js/2.1177b453.chunk.js.map",
+    "static/css/2.4dafaa8d.chunk.css": "/night-watch-react/static/css/2.4dafaa8d.chunk.css",
+    "static/js/2.6afef539.chunk.js": "/night-watch-react/static/js/2.6afef539.chunk.js",
+    "static/js/2.6afef539.chunk.js.map": "/night-watch-react/static/js/2.6afef539.chunk.js.map",
     "index.html": "/night-watch-react/index.html",
-    "precache-manifest.9a6b7df55a7415b3b35f28bbf3ec9b72.js": "/night-watch-react/precache-manifest.9a6b7df55a7415b3b35f28bbf3ec9b72.js",
+    "precache-manifest.98adc027968efab8a0b1a89b97ec4374.js": "/night-watch-react/precache-manifest.98adc027968efab8a0b1a89b97ec4374.js",
     "service-worker.js": "/night-watch-react/service-worker.js",
-    "static/css/2.301d52b6.chunk.css.map": "/night-watch-react/static/css/2.301d52b6.chunk.css.map",
-    "static/css/main.b671077c.chunk.css.map": "/night-watch-react/static/css/main.b671077c.chunk.css.map",
-    "static/js/2.1177b453.chunk.js.LICENSE.txt": "/night-watch-react/static/js/2.1177b453.chunk.js.LICENSE.txt",
-    "static/media/onsenui.css": "/night-watch-react/static/media/ionicons.cfdc1522.ttf"
+    "static/css/2.4dafaa8d.chunk.css.map": "/night-watch-react/static/css/2.4dafaa8d.chunk.css.map",
+    "static/css/main.861788e3.chunk.css.map": "/night-watch-react/static/css/main.861788e3.chunk.css.map",
+    "static/js/2.6afef539.chunk.js.LICENSE.txt": "/night-watch-react/static/js/2.6afef539.chunk.js.LICENSE.txt",
+    "static/media/onsenui.css": "/night-watch-react/static/media/ionicons.cfdc1522.ttf",
+    "static/media/semantic.min.css": "/night-watch-react/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.c35a0e3c.js",
-    "static/css/2.301d52b6.chunk.css",
-    "static/js/2.1177b453.chunk.js",
-    "static/css/main.b671077c.chunk.css",
-    "static/js/main.1df5d4bd.chunk.js"
+    "static/css/2.4dafaa8d.chunk.css",
+    "static/js/2.6afef539.chunk.js",
+    "static/css/main.861788e3.chunk.css",
+    "static/js/main.9f042afd.chunk.js"
   ]
 }

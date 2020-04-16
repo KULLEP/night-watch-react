@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ef2870699fb53435b8f4abeef46ad4a",
+    "revision": "2b19ecdb376a76332c47fb887f26a342",
     "url": "/night-watch-react/index.html"
   },
   {
-    "revision": "e5f50611b677269356d5",
-    "url": "/night-watch-react/static/css/2.301d52b6.chunk.css"
+    "revision": "b8f26e140f670a0f6926",
+    "url": "/night-watch-react/static/css/2.4dafaa8d.chunk.css"
   },
   {
-    "revision": "51066a237b73550999e8",
-    "url": "/night-watch-react/static/css/main.b671077c.chunk.css"
+    "revision": "da54e6f8f3be93fc31a6",
+    "url": "/night-watch-react/static/css/main.861788e3.chunk.css"
   },
   {
-    "revision": "e5f50611b677269356d5",
-    "url": "/night-watch-react/static/js/2.1177b453.chunk.js"
+    "revision": "b8f26e140f670a0f6926",
+    "url": "/night-watch-react/static/js/2.6afef539.chunk.js"
   },
   {
-    "revision": "0a99721ce2502519cec59e05d9763746",
-    "url": "/night-watch-react/static/js/2.1177b453.chunk.js.LICENSE.txt"
+    "revision": "34564eaa1eea14b27da03757490b4ab0",
+    "url": "/night-watch-react/static/js/2.6afef539.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "51066a237b73550999e8",
-    "url": "/night-watch-react/static/js/main.1df5d4bd.chunk.js"
+    "revision": "da54e6f8f3be93fc31a6",
+    "url": "/night-watch-react/static/js/main.9f042afd.chunk.js"
   },
   {
     "revision": "21bddeecc05165739613",
@@ -38,6 +38,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d2a55d331bdd1a7ea97a8a1fbb3c569c",
     "url": "/night-watch-react/static/media/Material-Design-Iconic-Font.d2a55d33.woff"
+  },
+  {
+    "revision": "13db00b7a34fee4d819ab7f9838cc428",
+    "url": "/night-watch-react/static/media/brand-icons.13db00b7.eot"
+  },
+  {
+    "revision": "a046592bac8f2fd96e994733faf3858c",
+    "url": "/night-watch-react/static/media/brand-icons.a046592b.woff"
+  },
+  {
+    "revision": "a1a749e89f578a49306ec2b055c073da",
+    "url": "/night-watch-react/static/media/brand-icons.a1a749e8.svg"
+  },
+  {
+    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
+    "url": "/night-watch-react/static/media/brand-icons.c5ebe0b3.ttf"
+  },
+  {
+    "revision": "e8c322de9658cbeb8a774b6624167c2c",
+    "url": "/night-watch-react/static/media/brand-icons.e8c322de.woff2"
   },
   {
     "revision": "2ef8ba3410dcc71578a880e7064acd7a",
@@ -100,6 +120,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/night-watch-react/static/media/fa-solid-900.ff8d9f8a.ttf"
   },
   {
+    "revision": "9c74e172f87984c48ddf5c8108cabe67",
+    "url": "/night-watch-react/static/media/flags.9c74e172.png"
+  },
+  {
+    "revision": "0ab54153eeeca0ce03978cc463b257f7",
+    "url": "/night-watch-react/static/media/icons.0ab54153.woff2"
+  },
+  {
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/night-watch-react/static/media/icons.8e3c7f55.eot"
+  },
+  {
+    "revision": "962a1bf31c081691065fe333d9fa8105",
+    "url": "/night-watch-react/static/media/icons.962a1bf3.svg"
+  },
+  {
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/night-watch-react/static/media/icons.b87b9ba5.ttf"
+  },
+  {
+    "revision": "faff92145777a3cbaf8e7367b4807987",
+    "url": "/night-watch-react/static/media/icons.faff9214.woff"
+  },
+  {
     "revision": "665921072642ed354618b32af7425a22",
     "url": "/night-watch-react/static/media/ionicons.66592107.svg"
   },
@@ -118,5 +162,25 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cfdc15225683b7529d6ba1e9d8a9be59",
     "url": "/night-watch-react/static/media/ionicons.cfdc1522.ttf"
+  },
+  {
+    "revision": "701ae6abd4719e9c2ada3535a497b341",
+    "url": "/night-watch-react/static/media/outline-icons.701ae6ab.eot"
+  },
+  {
+    "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
+    "url": "/night-watch-react/static/media/outline-icons.82f60bd0.svg"
+  },
+  {
+    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
+    "url": "/night-watch-react/static/media/outline-icons.ad97afd3.ttf"
+  },
+  {
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/night-watch-react/static/media/outline-icons.cd6c777f.woff2"
+  },
+  {
+    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
+    "url": "/night-watch-react/static/media/outline-icons.ef60a4f6.woff"
   }
 ]);
